@@ -37,13 +37,11 @@ u is in the vertex cover or v is in the vertex cover.
   Given a graph G and an integer k, we ask for a vertex cover of G of size at most k, but instead of seeking an FPT
 algorithm parameterized by k, the parameter now is k − vc∗(G).
     ![alt text](https://github.com/ofekbenda/vertexCover-with-kernelization/tree/master/imgs_for_readme/VC_above_LP.png?raw=true)
-
     ![alt text](https://github.com/ofekbenda/vertexCover-with-kernelization/tree/master/imgs_for_readme/vc4.png?raw=true)
-
     ![alt text](https://github.com/ofekbenda/vertexCover-with-kernelization/tree/master/imgs_for_readme/vc5.png?raw=true)
 
     ![alt text](https://github.com/ofekbenda/vertexCover-with-kernelization/tree/master/imgs_for_readme/vc3.8.png?raw=true)
     
     
-  *main contain examples how to use the functions*
+  **main contain examples how to use the functions**
 
