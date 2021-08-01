@@ -39,7 +39,6 @@ algorithm parameterized by k, the parameter now is k − vc∗(G).
     ![alt text](https://github.com/ofekbenda/vertexCover-with-kernelization/tree/master/imgs_for_readme/VC_above_LP.png?raw=true)
     ![alt text](https://github.com/ofekbenda/vertexCover-with-kernelization/tree/master/imgs_for_readme/vc4.png?raw=true)
     ![alt text](https://github.com/ofekbenda/vertexCover-with-kernelization/tree/master/imgs_for_readme/vc5.png?raw=true)
-
     ![alt text](https://github.com/ofekbenda/vertexCover-with-kernelization/tree/master/imgs_for_readme/vc3.8.png?raw=true)
     
     
